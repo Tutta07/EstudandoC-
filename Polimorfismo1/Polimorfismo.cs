@@ -28,6 +28,11 @@ namespace ContaBancaria.Polimorfismo1
             var result = 0;
             return result;
         }
+        public int Somar(int n1, int n2,int n3, bool verifica)
+        {
+            var resultado=0;
+            return resultado;
+        }
 
         
 
