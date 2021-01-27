@@ -1,5 +1,6 @@
 ﻿using System;
 using ContaBancaria.Abstração;
+using ContaBancaria.Polimorfismo1;
 //using ContaBancaria.Herança;
 //using ContaBancaria.Clases_Objetos;
 
@@ -12,6 +13,8 @@ namespace ContaBancaria
             //Abstracion
              var abstracion = new Abstracion();
              abstracion.Execucao();
+             var polimorfismo = new Polimorfismo();
+             polimorfismo.Execucao();
         
             // Conta conta = new Conta{
             //     Banco = "Banco Itaú",
