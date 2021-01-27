@@ -1,11 +1,12 @@
-// using System;
-// namespace ContaBancaria.Herança
-// {
-//     public interface IContaCorrenteRepository: IBaseRepository<ContaCorrente>
-//     {
-//         void Save(ContaCorrente contaCorrente);
-//         void Update (int id);
-//         void Delete(int id);
-//         void ResgatarTitulo();
-//     }
-// }
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using static System.Console;
+
+namespace ContaBancaria.Herança
+{
+    public interface IContaCorrenteRepository: IBaseRepository<ContaCorrente>
+    {
+        void ResgatarTitulo();
+    }
+}

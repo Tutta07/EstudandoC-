@@ -1,8 +1,12 @@
-// using System;
-// namespace ContaBancaria.Herança
-// {
-//     public class ContaInvenstimento : Conta{
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using static System.Console;
 
-//         public string TipoInvestidor {get; set;}
-//     }
-// }
+namespace ContaBancaria.Herança
+{
+    public class ContaInvenstimento : Conta{
+
+        public string TipoInvestidor {get; set;}
+    }
+}
