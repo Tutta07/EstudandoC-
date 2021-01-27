@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using static System.Console;
 
-namespace ContaBancaria
+namespace ContaBancaria.Clases_Objetos
 {
     public class Conta
     {

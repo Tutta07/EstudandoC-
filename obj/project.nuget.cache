@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GAq7qgg8cw1jeWK0x/BUfbr7mr1yLAH9WsFzWylVkuD6c78bQAddq+dl25syltnW1oDriqsYClnbhx457vka8Q==",
+  "dgSpecHash": "rA5arSj4pF6/OmJ8Pta1ghzjPmWOpbd7XgPjWSRdvm1rslxu7EyKeQkbKmREXfwzW2w4Nd81+H+Y4vi2vJrsaQ==",
   "success": true,
-  "projectFilePath": "/home/volanty/Escritorio/unica/Clase 2 POO/ContaBancaria/ContaBancaria.csproj",
+  "projectFilePath": "/home/volanty/Escritorio/unica/clase 3 Herança/ContaBancaria/ContaBancaria.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

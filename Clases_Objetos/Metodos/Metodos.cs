@@ -3,7 +3,7 @@
 // using System.Diagnostics;
 // using static System.Console;
 
-// namespace CONTABANCARIA
+// namespace CONTABANCARIA.Clases_Objetos
 // {
 //     public class Metodos
 //     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/volanty/Escritorio/unica/Clase 2 POO/ContaBancaria/ContaBancaria.csproj": {}
+    "/home/volanty/Escritorio/unica/clase 3 Herança/ContaBancaria/ContaBancaria.csproj": {}
   },
   "projects": {
-    "/home/volanty/Escritorio/unica/Clase 2 POO/ContaBancaria/ContaBancaria.csproj": {
+    "/home/volanty/Escritorio/unica/clase 3 Herança/ContaBancaria/ContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/volanty/Escritorio/unica/Clase 2 POO/ContaBancaria/ContaBancaria.csproj",
+        "projectUniqueName": "/home/volanty/Escritorio/unica/clase 3 Herança/ContaBancaria/ContaBancaria.csproj",
         "projectName": "ContaBancaria",
-        "projectPath": "/home/volanty/Escritorio/unica/Clase 2 POO/ContaBancaria/ContaBancaria.csproj",
+        "projectPath": "/home/volanty/Escritorio/unica/clase 3 Herança/ContaBancaria/ContaBancaria.csproj",
         "packagesPath": "/home/volanty/.nuget/packages/",
-        "outputPath": "/home/volanty/Escritorio/unica/Clase 2 POO/ContaBancaria/obj/",
+        "outputPath": "/home/volanty/Escritorio/unica/clase 3 Herança/ContaBancaria/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/volanty/.nuget/NuGet/NuGet.Config"
